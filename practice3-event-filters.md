@@ -50,7 +50,7 @@ branches:
   - 'release/*'
 ```
 
-**Path Exclusion:**
+**Path Exclusion ook:**
 ```yaml
 paths-ignore:
   - 'docs/**'
